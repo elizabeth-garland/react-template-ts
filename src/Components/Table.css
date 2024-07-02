@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #000;
+}
+
+.container table td {
+    padding: 0 1rem 0 1.5rem;
+    text-align: left;
+}

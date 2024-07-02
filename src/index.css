@@ -20,6 +20,8 @@
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  font-family: 'Arial';
+  font-size: 1.5rem;
 }
 /*
   5. Improve media defaults
