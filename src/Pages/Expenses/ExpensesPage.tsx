@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { CapitaliseFirstLetter } from "../../Utils/StringUtils";
-import Table from "../../Components/Table";
+import Table from "../../Components/Table/Table";
 import "./ExpensesPage.css";
 
 interface ExpenseResponse {

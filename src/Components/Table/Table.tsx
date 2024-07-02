@@ -1,5 +1,5 @@
 import{ useMemo } from "react";
-import { CapitaliseFirstLetter } from "../Utils/StringUtils";
+import { CapitaliseFirstLetter } from "../../Utils/StringUtils";
 import "./Table.css";
 
 interface TableProps {
